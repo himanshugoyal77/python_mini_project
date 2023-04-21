@@ -17,3 +17,6 @@ The Django auth system allows users to create accounts, log in, log out, and res
 https://drive.google.com/file/d/1FjjYROLf3nBuo13qygk9ka2NCZnKA9Zk/view?usp=share_link
 
 
+![Screenshot (105)](https://user-images.githubusercontent.com/92782099/233532229-21649f3c-7f0b-4bab-bccb-148fe99ee3c5.png)
+![Screenshot (107)](https://user-images.githubusercontent.com/92782099/233532250-dbe6fdb1-5e88-41f6-b567-241ffa8ea14b.png)
+![Screenshot (106)](https://user-images.githubusercontent.com/92782099/233532276-d48faebf-b7c2-41f5-a078-49e6d903294f.png)
